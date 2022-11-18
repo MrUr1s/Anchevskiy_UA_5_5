@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b09a57a6-632e-be0b-7202-f4297b825f53": {
+      "ProjectGuid": "b09a57a6-632e-be0b-7202-f4297b825f53",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "01d0aa00-fc0f-f2e2-651d-b41284fcdc12": {
+      "ProjectGuid": "01d0aa00-fc0f-f2e2-651d-b41284fcdc12",
+      "DisplayName": "Unity.PlasticSCM.Editor",
+      "ColorIndex": 1
+    },
+    "1ba78d6a-15d3-3723-00a0-24bcee078488": {
+      "ProjectGuid": "1ba78d6a-15d3-3723-00a0-24bcee078488",
+      "DisplayName": "Unity.InputSystem",
+      "ColorIndex": 2
+    },
+    "a6e3cc69-4f5b-aa6b-7482-1bbce4d10d1b": {
+      "ProjectGuid": "a6e3cc69-4f5b-aa6b-7482-1bbce4d10d1b",
+      "DisplayName": "Unity.TextMeshPro",
+      "ColorIndex": 3
+    },
+    "f18c7ab3-2e17-2624-642b-dd243181fbf8": {
+      "ProjectGuid": "f18c7ab3-2e17-2624-642b-dd243181fbf8",
+      "DisplayName": "UnityEditor.TestRunner",
+      "ColorIndex": 4
+    },
+    "72e1b91a-f8d6-84e6-3bb4-9d3d95c65b30": {
+      "ProjectGuid": "72e1b91a-f8d6-84e6-3bb4-9d3d95c65b30",
+      "DisplayName": "Unity.Rider.Editor",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
